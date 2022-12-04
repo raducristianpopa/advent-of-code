@@ -1,0 +1,22 @@
+{
+	"name": "aoc",
+	"version": "1.0.0",
+	"description": "Solutions to AoC 2022",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/raducristianpopa/advent-of-code.git"
+	},
+	"keywords": [
+		"advent-of-code"
+	],
+	"author": "Radu-Cristian Popa",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/arashThr/AoC/issues"
+	},
+	"homepage": "https://github.com/arashThr/AoC#readme",
+	"devDependencies": {
+		"@types/node": "^18.11.10",
+		"ts-node": "^10.9.1"
+	}
+}
